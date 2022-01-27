@@ -3,8 +3,8 @@ const linkInfo={
     "linkedin":"https://www.linkedin.com/in/arijit-r-71b750a2/",
     "twitter":"https://twitter.com/the_awfish_guy",
     "facebook":"https://www.facebook.com/arijit.roy.9237",
-    "instagram":"",
-    "rotaract":"",
+    "instagram":"https://www.instagram.com/the_awfish_guy/",
+    "rotaract":"https://www.facebook.com/rco.altruism",
     "mail":"mailto: arijitray.official@gmail.com"
 }
 
