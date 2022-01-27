@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css" />
+    
     <title>
         Arijit Ray
     </title>
@@ -26,31 +27,31 @@
             <p>The Tech and Data Guy</p>
             <div class="developer">
                 <div class="work-ex">
-                    <span class="designation">Front End Developer</span>
+                    <span class="designation">Full-Stack Developer</span>
                     <p class="company">Deloitte USI</p>
                 </div>
-                <div class="github" onClick="onRedirect('github')">
+                <div class="github" onClick="onHandleClick('github')">
                     <i class="fab fa-github"></i>
                 </div>
             </div>
-            <div class="side-hustle">
-                <h3>My External Engagements</h3>
-                <div class="company-name">
+            <div class="side-hustle" onClick="onHandleClick('rotaract')">
+                <h3>My Other Engagements</h3>
+                <div class="company-name" >
                     <h4>Rotaract</h4>
-                    <div class="icon"><i class="fas fa-graduation-cap"></i></div>
+                    <div onClick="onHandleClick('rotaract')" class="icon"><i class="fas fa-graduation-cap"></i></div>
                 </div>
             </div>
         </div>
         
         <div class="social-media">
-            <i class="fab fa-instagram"></i>
-            <i class="fab fa-facebook"></i>
-            <i class="fab fa-linkedin"></i>
-            <i class="fab fa-twitter"></i>
-
-            <i class="far fa-envelope"></i>
+            <i class="fab fa-instagram" onClick="onHandleClick('instagram')"></i>
+            <i class="fab fa-facebook"  onClick="onHandleClick('facebook')"></i>
+            <i class="fab fa-linkedin"  onClick="onHandleClick('linkedin')"></i>
+            <i class="fab fa-twitter" onClick="onHandleClick('twitter')"></i>
+            <i class="far fa-envelope" onClick="onHandleClick('mail')"></i>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
 
 </html>
