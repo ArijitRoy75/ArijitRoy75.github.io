@@ -1,9 +1,9 @@
 const linkInfo={
-    "github":"https://github.com/ArijitRoy75",
-    "linkedin":"https://www.linkedin.com/in/arijit-r-71b750a2/",
-    "twitter":"https://twitter.com/the_awfish_guy",
-    "facebook":"https://www.facebook.com/arijit.roy.9237",
-    "instagram":"https://www.instagram.com/the_awfish_guy/",
+    "github":"https://github.com/itsarijitray",
+    "linkedin":"https://www.linkedin.com/in/itsarijitray/",
+    "twitter":"https://twitter.com/itsarijitray",
+    "facebook":"https://www.facebook.com/itsarijitray",
+    "instagram":"https://www.instagram.com/itsarijitray/",
     "rotaract":"https://www.facebook.com/rco.altruism",
     "mail":"mailto: arijitray.official@gmail.com"
 }
