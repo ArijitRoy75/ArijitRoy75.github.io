@@ -5,7 +5,7 @@ const linkInfo={
     "facebook":"https://www.facebook.com/itsarijitray",
     "instagram":"https://www.instagram.com/itsarijitray/",
     "rotaract":"https://www.facebook.com/rco.altruism",
-    "joblessbong":"https://www.facebook.com/joblessbong",
+    "joblessbong":"https://joblessbong.bio.link/",
     "mail":"mailto: arijitray.official@gmail.com"
 }
 
