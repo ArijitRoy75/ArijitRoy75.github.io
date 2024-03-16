@@ -6,7 +6,7 @@ const linkInfo={
     "instagram":"https://www.instagram.com/itsarijitray/",
     "medium":"https://medium.com/@itsarijitray",
     "rotaract":"https://www.facebook.com/rco.altruism",
-    "joblessbong":"https://joblessbong.bio.link/",
+    "joblessbong":"https://cinesonket.bio.link/",
     "mail":"mailto: arijitray.official@gmail.com"
 }
 
